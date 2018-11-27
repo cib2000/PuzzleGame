@@ -1,0 +1,9 @@
+E:\新建文件夹\ImageGame\bin\Debug\ImageGame.exe.config
+E:\新建文件夹\ImageGame\bin\Debug\ImageGame.exe
+E:\新建文件夹\ImageGame\bin\Debug\ImageGame.pdb
+E:\新建文件夹\ImageGame\obj\Debug\ImageGame.Form1.resources
+E:\新建文件夹\ImageGame\obj\Debug\ImageGame.Properties.Resources.resources
+E:\新建文件夹\ImageGame\obj\Debug\ImageGame.csproj.GenerateResource.Cache
+E:\新建文件夹\ImageGame\obj\Debug\ImageGame.exe
+E:\新建文件夹\ImageGame\obj\Debug\ImageGame.pdb
+E:\新建文件夹\ImageGame\obj\Debug\ImageGame.csprojResolveAssemblyReference.cache
